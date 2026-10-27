@@ -10,7 +10,7 @@ Welcome to the world of cloning servers you like aka called skidding!
 
 ## Config:
 
-1. Go to line 183 and type your discord user token (Read how to get token section)
+1. Go to line 183 and type your discord user token [(Read how to get token section)](https://github.com/W3eklyPlayTT/Discord-Server-Cloner/blob/main/README.md#how-to-get-token)
 2. Go to line 184 and type the discord server id of the one your copying
 3. Go to line 185 and type the discord server id you want it copied to (you need adminstator perms)
 4. Done!
